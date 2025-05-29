@@ -1,7 +1,6 @@
-# EXP:08 D-FLIPDLOP-NEGEDGE
 ## NAME: SHREEDHAR KUMAR K.J
 ## RegisterNumber:212224230265
-
+# EXP:08 D-FLIPDLOP-NEGEDGE
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
